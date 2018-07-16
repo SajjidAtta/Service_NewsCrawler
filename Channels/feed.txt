@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Express Tribune</title>
+	<atom:link href="https://tribune.com.pk/pakistan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tribune.com.pk</link>
+	<description>Latest Breaking Pakistan News, Business, Life, Style, Cricket, Videos, Comments</description>
+	<lastBuildDate>Sun, 19 Mar 2017 15:50:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<item>
+		<title>Another opportunity falls prey to PFF turmoil</title>
+		<link>https://tribune.com.pk/story/1359829/another-opportunity-falls-prey-pff-turmoil/</link>
+		<comments>https://tribune.com.pk/story/1359829/another-opportunity-falls-prey-pff-turmoil/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 15:50:09 +0000</pubDate>
+		<dc:creator><![CDATA[Natasha Raheel]]></dc:creator>
+				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Football]]></category>
+		<category><![CDATA[Pakistan football]]></category>
+		<category><![CDATA[Pakistan Football Federation]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359829</guid>
+		<description><![CDATA[<p>Pakistan withdraw from AFC U23 championship qualifiers </p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359829/another-opportunity-falls-prey-pff-turmoil/">Another opportunity falls prey to PFF turmoil</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>KARACHI:&nbsp;</strong>Pakistan will miss out on the Asian Football Confederation (AFC) U23 Championship qualifiers, scheduled to be staged in July this year.</p>
+<p>Neither of Pakistan&#8217;s national sides have been active in international competition since 2015 due to an administrative tug-of-war within the Pakistan Football Federation (PFF), resulting in the country&#8217;s FIFA rankings to slide to a lowly 198.</p>
+<p>According to PFF officials, the federation withdrew from the event last month due to the ongoing legal wrangling over the rightful office-bearers.</p>
+<p class="title"><strong><a href="https://tribune.com.pk/story/1354317/national-footballers-ecstatic-ronaldinhos-visit/" target="_blank">National footballers ecstatic over Ronaldinho’s visit</a></strong></p>
+<p>Former national coach Tariq Lutfi believes the withdrawal will be another major loss for the country&#8217;s crisis-ridden football community and blamed the PFF&#8217;s quarrelling factions for it.</p>
+<p>“They are just wasting time; they can have all the court cases they want but it is the players who are suffering the most,” Lutfi told <em>The Express Tribune</em>.</p>
+<p>“Back in the day the U23 team was our main focus as its players were directly inducted into the national side. The AFC U23 Championship served as the breeding ground for our young talent, who need all the confidence and exposure they can get.</p>
+<p class="title"><strong><a href="https://tribune.com.pk/story/1345191/footballers-death-says-country/" target="_blank">What a footballer&#8217;s death says about the country</a></strong></p>
+<p>“This withdrawal deprives the players of a great opportunity. Most of them will get age-barred by the next edition. Their time will be gone.”</p>
+<p>Lutfi urged the PFF to sort out their issues as he feels their turmoil has brought all footballing activity in the country to a standstill.</p>
+<p>“Our players need a professional federation to run their business,&#8221; he said. &#8220;If the federation is just caught up in their own mess, how can we expect to have world class players?”</p>
+<p class="title"><strong><a href="https://tribune.com.pk/story/1338007/hayats-reinstatement-overturned-supreme-court/" target="_blank">Hayat&#8217;s reinstatement overturned in Supreme Court</a></strong></p>
+<p>Pakistan international Muhammad Adil, who played at the 2012 AFC U23 Championship qualifiers, believes nothing can atone for the time and playing opportunities the players are losing.</p>
+<p>“The players are the most important part of the sport, but we are also the most helpless party in this case,” said Adil. “We can only hope that the federation issues get resolved because missing out on these events is breaking our spirit. Our FIFA ranking is horrible and there are no prospects really. This two year gap has just taken away a very precious time from us.”</p>
+<p>The PFF is currently divided into two rival groups — one led by Faisal Saleh Hayat, who has FIFA and AFC&#8217;s, whereas in the opposite corner sits the Lahore High Court-appointed administrator Asad Munir.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359829/another-opportunity-falls-prey-pff-turmoil/">Another opportunity falls prey to PFF turmoil</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>National Championship: Semi-finals line-ups confirmed</title>
+		<link>https://tribune.com.pk/story/1359825/national-championship-semi-finals-line-ups-confirmed/</link>
+		<comments>https://tribune.com.pk/story/1359825/national-championship-semi-finals-line-ups-confirmed/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 15:18:23 +0000</pubDate>
+		<dc:creator><![CDATA[Our Correspondent]]></dc:creator>
+				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[snooker]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359825</guid>
+		<description><![CDATA[<p>Sajjad, Iqbal are part of quartet still alive in competition</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359825/national-championship-semi-finals-line-ups-confirmed/">National Championship: Semi-finals line-ups confirmed</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>KARACHI:&nbsp;</strong>Former Asian number two Muhammad Sajjad, Asjad Iqbal, Khurram Agha and Nadir Miraan will be in action in the semi-finals of the Jubilee Insurance National Championship 2017 at Karachi Gymkhana on Monday.</p>
+<p>In the quarter-finals, Sajjad dominated Sohail Shehzad from start to finish, conceding only the third and sixth frames to triumph 5-2.</p>
+<p>In contrast, Iqbal&#8217;s last-eight win over Ahsan Javaid was a battling one as he dropped the opening frame 36-76 before equalising the tie by taking the second frame 64-38 with a break of 50.</p>
+<p class="title"><strong><a href="https://tribune.com.pk/story/1351847/2017-snooker-season-set-get-cue/" target="_blank">2017 snooker season set to get its cue</a></strong></p>
+<p>Javaid regained the lead in the third frame 69-26 but found Iqbal equal to it again as he prevailed 80-0 in the fourth with a break of 68.</p>
+<p>With the tie level at two frames apiece, Iqbal took over, claiming the next two frames 99-5 and 98-0, and even though Javaid threatened a comeback by taking the seventh frame 71-29, the former Pakistan number one player sealed the win with a 62-55 in the eighth frame to make his way to the semi-finals.</p>
+<p class="title"><strong><a href="https://tribune.com.pk/story/1235775/snooker-world-championship-glory/" target="_blank">Snooker world championship glory</a></strong></p>
+<p>Iqbal will next face Miraan, who edged out Shahid Aftab 5-3 in the quarter-final, whereas Sajjad&#8217;s final-four opponent will be Khurram Agha, who overcame Shahram Changezi 5-4 in the longest battle of the day.</p>
+<p>The week-long National Championship featured 48 of the country&#8217;s best cueists, with the two finalists guaranteed a place in the 33rd Asian Championship that will take place in Doha in April.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359825/national-championship-semi-finals-line-ups-confirmed/">National Championship: Semi-finals line-ups confirmed</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Schumacher Junior eyes driving license</title>
+		<link>https://tribune.com.pk/story/1359815/schumacher-junior-eyes-driving-license/</link>
+		<comments>https://tribune.com.pk/story/1359815/schumacher-junior-eyes-driving-license/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 15:01:49 +0000</pubDate>
+		<dc:creator><![CDATA[AFP ]]></dc:creator>
+				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Bild]]></category>
+		<category><![CDATA[Formula One]]></category>
+		<category><![CDATA[Mercedes-Benz]]></category>
+		<category><![CDATA[Michael Schumacher]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359815</guid>
+		<description><![CDATA[<p>According to Bild, Mick Schumacher is set for a junior ambassador's role with Mercedes Benz</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359815/schumacher-junior-eyes-driving-license/">Schumacher Junior eyes driving license</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>BERLIN:&nbsp;</strong>He&#8217;s already been a star behind the wheel in Formula Four, but Michael Schumacher&#8217;s teenage son Mick turns 18 on Wednesday &#8212; and can finally qualify for a driving licence.</p>
+<p>Michael Schumacher, the seven-times Formula One world champion, continues to recover at the family home on Lake Geneva, Switzerland, from the serious head trauma he suffered in a skiing accident in December 2013.</p>
+<p>But his son, who is studying for his driving test, is looking forward to finally being old enough to get his licence in Switzerland, despite already having a Formula Four career.</p>
+<p><strong><a href="https://tribune.com.pk/story/1352566/alonso-dismisses-retirement-rumours/" target="_blank">Alonso dismisses retirement rumours</a></strong></p>
+<p>&#8220;I can hardly wait for the day when I can put my foot down not just on the race track,&#8221; the 17-year-old told German daily Bild.</p>
+<p>Once he passes his test, Schumacher Jnr will be able to drive himself to appointments and races.</p>
+<p>According to Bild, Mick Schumacher is set for a junior ambassador&#8217;s role with Mercedes Benz.</p>
+<p>Following a succesful stint in karting he finished second in last year&#8217;s Formula Four Drivers&#8217; championship, a big improvement from 10th in 2015, and seems destined to be a future Formula One star.</p>
+<p><strong><a href="https://tribune.com.pk/story/1350345/lamborghini-open-considering-electric-supercar-ceo/" target="_blank">Lamborghini open to considering all-electric supercar: CEO</a></strong></p>
+<p>In April, he will step up to Formula Three with Italian outfit Prema Powerteam and his first race will be at Silverstone, England, on the weekend of April 14-16.</p>
+<p>&#8220;The season will be a new challenge for me and Formula Three is the next logical step,&#8221; said Mick Schumacher.</p>
+<p>&#8220;The competition will be tighter and harder, everything will be more difficult and more tense.&#8221;</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359815/schumacher-junior-eyes-driving-license/">Schumacher Junior eyes driving license</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The ones who made fun of foreign players made fun of the nation: Muqam</title>
+		<link>https://tribune.com.pk/story/1359790/ones-made-fun-foreign-players-made-fun-nation-muqam/</link>
+		<comments>https://tribune.com.pk/story/1359790/ones-made-fun-foreign-players-made-fun-nation-muqam/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 14:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Umar Farooq / Asad Zia]]></dc:creator>
+				<category><![CDATA[KP & FATA]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Imran Khan]]></category>
+		<category><![CDATA[Latest]]></category>
+		<category><![CDATA[Peshawar Zalmi]]></category>
+		<category><![CDATA[phateechar]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359790</guid>
+		<description><![CDATA[<p>PML-N leader takes dig at Imran khan as multiple PML-N leaders host events for Peshwar Zalmi</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359790/ones-made-fun-foreign-players-made-fun-nation-muqam/">The ones who made fun of foreign players made fun of the nation: Muqam</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>PESHAWAR:&nbsp;</strong>The Pakistan Muslim League-Nawaz (PML-N) scored another moral victory against Pakistan Tehreek-e-Insaf (PTI) in the <em>phateechar</em> saga when Peshawar Zalmi on Sunday attended a lunch at the home of prime minister’s adviser Amir Muqam.</p>
+<p>Meanwhile, although speculation remains that the Pakistan Super League (PSL) 2017 champions’ players refused to attend an event hosted by Khyber-Pakhtunkhwa (K-P) Chief Minister Pervez Khattak because of PTI Chairman Imran Khan’s comments regarding the quality of players in the PSL final, franchise owner Javed Afridi said the players just wanted a break.</p>
+<p>“The players have been busy for over a month and wanted a break. That is why Zalmi players could not go to the chief minister’s house last week,” Afridi told media persons. He also shrugging off rumours that the Zalmi management refused to accept a Rs20 million reward from CM Khattak, summing it up by saying “any awards or rewards we get will be spent on poor people”.</p>
+<p>Afridi said the PSL was a success because it achieved all its objectives including “sending a softer image of Pakistan to the world”, adding he could not share the hardships they faced during their “missions”, but would share the success story with the United Nations.</p>
+<p>He stated that despite the volatile law-and-order situation in the country, they were happy that international players were willing to come to Pakistan, adding that international players also wanted to visit Peshawar, but their busy schedules with other leagues got in the way.</p>
+<p><strong><a href="https://tribune.com.pk/story/1350591/pml-n-pti-brawl-na-session-imrans-phateechar-comment/" target="_blank">PML-N, PTI brawl during NA session over Imran&#8217;s &#8216;phateechar&#8217; comment</a></strong></p>
+<p>“We are now planning a hockey league as well after Army Chief General Qamar Javed Bajwa assured us of his support,” he informed, adding that the country can expect good news on this front very soon.</p>
+<p>Muqam started his speech by taking a swipe at Imran Khan, even though he did not directly name the PTI chief. “The ones who made fun of international cricketers were actually making fun of the nation. The entire nation gave ‘him’ a message to show others respect,” Muqam said.</p>
+<p>He stated that despite several people being against holding the PSL final in Pakistan, international players made it to Lahore. He said that through the success of the event, ‘A message has been sent to the international community that Pakistan is a peaceful country.”</p>
+<p>Afridi was accompanied by Muhammad Akram and a number of younger players from the Zalmi squad, while FATA MNA Shah Jee Gul Afridi, PTI MPA Ziaullah Afridi, and PML-N lawmakers from the provincial legislature were also present.</p>
+<p><strong>Governor house</strong></p>
+<p>Earlier, at a brunch at governor house in honour of the players, K-P Governor Iqbal Zafar Jhagra emphasised the importance of sports in peacemaking. He said the federal government is encouraging sports in FATA and is constructing sporting facilities there to help improve the global image of Pakistan.</p>
+<p>He was hopeful that a team exclusively made up of players from FATA would participate in upcoming PSL tournaments so that local players can have a chance to test their skills against international players.</p>
+<p>Afridi and most of the same players and staff attended here as well, as did Muqam. The K-P inspector general of police, FC commandant, and Commissioner Fakhr-e-Alam were also in attendance.</p>
+<p>The governor welcomed the participation of foreign players in the PSL and said that the successful final in Lahore will pave new ways to not only populate cricket grounds but also reinstate other sporting activities in Pakistan.</p>
+<div style="width: 632px" class="wp-caption alignnone"><img src="https://c.tribune.com.pk/2017/03/k-p-1489936032.jpg" width="622" height="320" /><p class="wp-caption-text">K-P Governor Iqbal Zafar Jhagra presenting an honourary shield to the owner of Peshawar Zalmi Javed Afridi at the Governor House. PHOTO: APP</p></div>
+<p>While highlighting the importance of cricket, in particular, he said the sport is very close to the people’s hearts and bringing the final to Pakistan meant that the organisers not only won the hearts of the people of Pakistan but also united the nation.</p>
+<p>He applauded the army and law enforcement for ensuring the success of the event.</p>
+<p>“As a nation, we have proven to the world that we are not isolated anymore. The shroud of fear has passed and the militancy defeated. It was not only a victory for Peshawar Zalmi but also a victory for Pakistan.”</p>
+<p>While commending the player and organisers of the Zalmi squad, he said foreign cricketers should be encouraged to play in Pakistan. Jhagra later presented a shield and a traditional turban to Javed Afridi, while Afridi gave a trophy to the governor on behalf of his team.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359790/ones-made-fun-foreign-players-made-fun-nation-muqam/">The ones who made fun of foreign players made fun of the nation: Muqam</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Panama Papers: Sharjeel questions NAB inaction to put PM&#8217;s name in ECL</title>
+		<link>https://tribune.com.pk/story/1359795/panama-papers-sharjeel-questions-nab-inaction-put-pms-name-ecl/</link>
+		<comments>https://tribune.com.pk/story/1359795/panama-papers-sharjeel-questions-nab-inaction-put-pms-name-ecl/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 14:31:18 +0000</pubDate>
+		<dc:creator><![CDATA[News Desk / Qadeer Tanoli]]></dc:creator>
+				<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Corruption cases]]></category>
+		<category><![CDATA[Latest]]></category>
+		<category><![CDATA[NAB]]></category>
+		<category><![CDATA[PPP]]></category>
+		<category><![CDATA[sharjeel memon]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359795</guid>
+		<description><![CDATA[<p>Former minister accuses the bureau of only targeting Sindh, PPP while investigating cases of corruption</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359795/panama-papers-sharjeel-questions-nab-inaction-put-pms-name-ecl/">Panama Papers: Sharjeel questions NAB inaction to put PM&#8217;s name in ECL</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>ISLAMABAD:&nbsp;</strong>Pakistan People&#8217;s Party (PPP) Sharjeel Inam Memon on Sunday heavily criticised National Accountability Bureau (NAB) for its lack of &#8220;across the board&#8221; action against those named in corruption cases.</p>
+<p>The former information minister in the PPP-led government in Sindh, was released late Saturday night after he was arrested soon after a flight carrying him landed at the Islamabad airport.</p>
+<p>The PPP leader was released after the National Accountability Bureau verified the bail papers that his counsel had submitted to the bureau.</p>
+<p>&#8220;If the law is the same for everyone, why wasn&#8217;t Prime Minister Nawaz Sharif&#8217;s name included in the Exit Control List (ECL) in view of the ongoing Panama Papers case against him,&#8221; Sharjeel questioned.</p>
+<p>The bureau&#8217;s action should be across the board without any discrimination, he said. &#8220;Was the NAB created only to function in Sindh or against PPP.&#8221;</p>
+<p><strong><a href="https://tribune.com.pk/story/1359379/sharjeel-memon-arrested-islamabad-airport/" target="_blank">Sindh’s ex-minister Sharjeel Memon released after brief detention</a></strong></p>
+<p>He accused the rulers of barring NAB from carrying out investigation in cases relating to Punjab, saying the bureau had now practically become inactive in the province.</p>
+<p>Sharjeel recalled that the Supreme Court had sought a list of mega scams wherein, he claimed, the premier, finance minister Ishaq Dar and federal and Punjab ministers were named. &#8220;However, names of none of these persons were included in the ECL.</p>
+<p>&#8220;NAB chairman, if he has the courage, should put the premier&#8217;s name in the ECL,&#8221; he said. &#8220;Instead, the chairman refused to open a case of money laundering against the premier in the top court.&#8221;</p>
+<p>&#8220;I have complete faith in Pakistan&#8217;s courts and will face cases [of corruption], if any, against myself,&#8221; Sharjeel said. &#8220;I have returned to the country only to face the case against myself.&#8221;</p>
+<p>The PPP minister called his arrest a kidnapping and a result of [political] victimisation. &#8220;I was arrested prior to issuance of any notice or initiation of a case, while my name was included in the ECL despite the fact that I wasn&#8217;t in the country.&#8221;</p>
+<p>&#8220;Those who arrested me did not introduce themselves and were plain-clothed,&#8221; Sharjeel said while referring to his arrest which was termed disgraceful by the members of his party.</p>
+<p>Memon, who is facing a multibillion-rupee corruption case in the National Accountability Bureau (NAB), was arrested by the bureau’s officials from the runway after his flight from Dubai landed at the airport.</p>
+<p><strong><a href="https://tribune.com.pk/story/1359375/ppps-shah-displeased-sattars-detention/" target="_blank">PPP’s Shah displeased with Sattar’s detention</a></strong></p>
+<p>Four provincial ministers of Sindh Mukesh chawla, Imdad Pitafi, Fayyaz Butt and Taimor Talpur were accompanying Memon when he was taken into custody.</p>
+<p>Memon had fled the country in 2015 to Dubai after the anti-corruption watchdog launched a crackdown against corrupt political figures and bureaucrats as part of the Karachi operation.</p>
+<p>Later, a corruption reference was filed by NAB and subsequently the federal government put his name on the Exit Control List. He challenged the case and was directed to return to the country and defend himself. During his self-exile he lived in Dubai and London.</p>
+<p>On Feb 21, the Sindh High Court issued intimation notices to NAB’s special prosecutor and the deputy attorney general on a miscellaneous application moved by Memon for extension of a protective bail in corruption cases.</p>
+<p>The former minister had submitted a bail application in the Islamabad High Court on March 15, assuring that he would appear in the court on March 20.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359795/panama-papers-sharjeel-questions-nab-inaction-put-pms-name-ecl/">Panama Papers: Sharjeel questions NAB inaction to put PM&#8217;s name in ECL</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>United thrash struggling Middlesbrough</title>
+		<link>https://tribune.com.pk/story/1359808/united-thrash-struggling-middlesbrough/</link>
+		<comments>https://tribune.com.pk/story/1359808/united-thrash-struggling-middlesbrough/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 14:23:05 +0000</pubDate>
+		<dc:creator><![CDATA[Reuters ]]></dc:creator>
+				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Football]]></category>
+		<category><![CDATA[Jose Mourinho]]></category>
+		<category><![CDATA[Manchester United]]></category>
+		<category><![CDATA[Middlesbrough]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359808</guid>
+		<description><![CDATA[<p>The Red Devils moved to fifth place on the league table with a 3-1 victory on Sunday </p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359808/united-thrash-struggling-middlesbrough/">United thrash struggling Middlesbrough</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>MIDDLESBROUGH:&nbsp;</strong>Manchester United moved into fifth place in the Premier League on Sunday with a 3-1 victory away to struggling Middlesbrough, who sacked manager Aitor Karanka on Thursday.</p>
+<p>Jose Mourinho had said his team would &#8220;probably lose&#8221; because their current fixture congestion would lead to fatigue, but despite missing Zlatan Ibrahimovic, Paul Pogba, Wayne Rooney and Ander Herrera, they counter-attacked well.</p>
+<p><strong><a href="https://tribune.com.pk/story/1358012/mourinho-identifies-united-enemies-losing-pogba/" target="_blank">Mourinho identifies United &#8216;enemies&#8217; after losing Pogba</a></strong></p>
+<p>Belgium international Marouane Fellaini headed them in front after almost half an hour&#8217;s play for his first league goal of the season and Jesse Lingard scored the second just after the hour mark from 20 metres.</p>
+<p>Boro&#8217; substitute Rudy Gestede pulled a goal back with 12 minutes left, but in added time goalkeeper Victor Valdes slipped, allowing Antonio Valencia to score a third United goal.</p>
+<p>Middlesbrough, by far the lowest scoring team in the league, have still not won a league game in 2017.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359808/united-thrash-struggling-middlesbrough/">United thrash struggling Middlesbrough</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Saudi-led coalition calls for U.N. supervision of Yemen port</title>
+		<link>https://tribune.com.pk/story/1359802/saudi-led-coalition-calls-u-n-supervision-yemen-port/</link>
+		<comments>https://tribune.com.pk/story/1359802/saudi-led-coalition-calls-u-n-supervision-yemen-port/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 14:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[Reuters ]]></dc:creator>
+				<category><![CDATA[World]]></category>
+		<category><![CDATA[President Abd-Rabbu Mansour Hadi]]></category>
+		<category><![CDATA[Saudi]]></category>
+		<category><![CDATA[UN]]></category>
+		<category><![CDATA[Yemem]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359802</guid>
+		<description><![CDATA[<p>The Bab al-Mandab is a strategic waterway through which nearly 4 million barrels of oil are shipped daily</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359802/saudi-led-coalition-calls-u-n-supervision-yemen-port/">Saudi-led coalition calls for U.N. supervision of Yemen port</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>DUBAI:&nbsp;</strong>A Saudi-led coalition fighting in Yemen called on Sunday for the United Nations to place a strategic port under its supervision after a helicopter attack on a boatload of Somali refugees left 42 dead.</p>
+<p>The refugees had departed from the western port city of Hodeidah en route to Sudan when the gunship opened fire on Friday, the United Nations refugee agency said.</p>
+<p>The Red Sea port near the Bab al-Mandab strait is under the control of Yemen&#8217;s armed Houthi movement, which has been fighting Saudi Arabia and its allies in a two-year-old conflict.</p>
+<p><strong><a href="https://tribune.com.pk/story/1341651/un-urges-aid-access-yemen-ports-avert-looming-famine/" target="_blank">UN urges aid access to Yemen ports to avert looming famine</a></strong></p>
+<p>While the Arab alliance denied responsibility for the attack on Friday, it called for jurisdiction over Hodeidah port to be transferred to the U.N.</p>
+<p>&#8220;This would facilitate the flow of humanitarian supplies to the Yemeni people, while at the same time ending the use of the port for weapons smuggling and people trafficking,&#8221; it said in a statement. It did not address a call by Somalia to investigate.</p>
+<p><strong><a href="https://tribune.com.pk/story/1344837/food-distribution-migrants-blocked-french-port/" target="_blank">Food distribution for migrants blocked at French port</a></strong></p>
+<p>Hodeidah is part of a broad battlefront where forces loyal to Yemeni President Abd-Rabbu Mansour Hadi, backed by the Saudi-led coalition, are fighting the Iran-allied Houthi movement which controls most of north and western Yemen.</p>
+<p>The Saudi-led coalition was formed in 2015 to fight the Houthis and troops loyal to former president Ali Abdullah Saleh who have fired missiles into neighbouring Saudi Arabia.</p>
+<p>The Bab al-Mandab is a strategic waterway through which nearly 4 million barrels of oil are shipped daily.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359802/saudi-led-coalition-calls-u-n-supervision-yemen-port/">Saudi-led coalition calls for U.N. supervision of Yemen port</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Turkey&#8217;s Erdogan on German journalist: &#8216;Thank God&#8217; he was arrested</title>
+		<link>https://tribune.com.pk/story/1359797/turkeys-erdogan-german-journalist-thank-god-arrested/</link>
+		<comments>https://tribune.com.pk/story/1359797/turkeys-erdogan-german-journalist-thank-god-arrested/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 13:32:13 +0000</pubDate>
+		<dc:creator><![CDATA[Reuters ]]></dc:creator>
+				<category><![CDATA[World]]></category>
+		<category><![CDATA[Deniz Yucel]]></category>
+		<category><![CDATA[Islamic foundation]]></category>
+		<category><![CDATA[President Tayyip Erdogan]]></category>
+		<category><![CDATA[Turkey]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359797</guid>
+		<description><![CDATA[<p>Authorities arrested Yucel month on charges of propaganda in support of a terrorist organisation </p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359797/turkeys-erdogan-german-journalist-thank-god-arrested/">Turkey&#8217;s Erdogan on German journalist: &#8216;Thank God&#8217; he was arrested</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>ISTANBUL,TURKEY:&nbsp;</strong>Turkish President Tayyip Erdogan on Sunday accused a jailed Turkish-German journalist of being a terrorist agent, adding &#8220;Thank God he has been arrested&#8221;, comments likely to cause further unease in Berlin over the incident.</p>
+<p>Erdogan, who was speaking at a meeting of an Islamic foundation in Istanbul, said the reporter, Deniz Yucel of Germany&#8217;s Die Welt newspaper, would be tried by Turkey&#8217;s independent judiciary.</p>
+<p>Authorities arrested Yucel, a dual Turkish and German national, last month on charges of propaganda in support of a terrorist organisation and inciting the public to violence.</p>
+<p><strong><a href="https://tribune.com.pk/story/1358954/erdogan-expects-parliament-restore-capital-punishment/" target="_blank">Erdogan expects parliament to restore capital punishment</a></strong></p>
+<p>He was initially detained after he reported on emails that a leftist hacker collective had purportedly obtained from the private account of Berat Albayrak, Turkey&#8217;s energy minister and Erdogan&#8217;s son-in-law.</p>
+<p>He is the first German journalist to be detained in a Turkish crackdown following the failed July 15 coup that has frequently targeted the media. Berlin has said that a separate claim that Yucel was working as a German spy was &#8220;absolutely baseless&#8221;.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359797/turkeys-erdogan-german-journalist-thank-god-arrested/">Turkey&#8217;s Erdogan on German journalist: &#8216;Thank God&#8217; he was arrested</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two doctors ‘disappear’ from Lahore</title>
+		<link>https://tribune.com.pk/story/1359789/two-doctors-disappear-lahore/</link>
+		<comments>https://tribune.com.pk/story/1359789/two-doctors-disappear-lahore/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 13:25:47 +0000</pubDate>
+		<dc:creator><![CDATA[Rameez Khan]]></dc:creator>
+				<category><![CDATA[Punjab]]></category>
+		<category><![CDATA[Alleged kidnapping]]></category>
+		<category><![CDATA[doctors]]></category>
+		<category><![CDATA[Lahore]]></category>
+		<category><![CDATA[Latest]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359789</guid>
+		<description><![CDATA[<p>The doctors have been missing since Tuesday</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359789/two-doctors-disappear-lahore/">Two doctors ‘disappear’ from Lahore</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>LAHORE:&nbsp;</strong>Two doctors who were doing house jobs in Mayo Hospital, Lahore have been missing since Tuesday. Both men are from south Punjab.</p>
+<p>Dr Muhammad Javeed from Muzaffargarh and Dr Hafiz Muhammad Adnan from Khanpur, Rahim Yar Khan, both graduates of King Edward Medical University (KEMU), Lahore, went missing between March 14 and 15. Both men were reportedly returning home to the new hostels at KEMU after completing their shifts at Mayo.</p>
+<p>Their families learnt of their disappearance after the King Edward Medical University office contacted them on Friday to ask about the fact that the doctors had not shown up for work.</p>
+<h1 class="title"><strong><a href="https://tribune.com.pk/story/1355895/three-teachers-kidnapped-awaran/" target="_blank">Three teachers kidnapped from Awaran</a></strong></h1>
+<p>A kidnapping case regarding the disappearance of Dr Adnan was lodged after his brother Dr Jam Muhammad Rizwan approached the Gawalmandi police and Dr Javeed’s family have also filed a complaint with the police requesting the same.</p>
+<p>Dr Rizwan said no one in the family has heard from his brother since March 14. He added that both of his brother’s cell phone numbers were unresponsive.</p>
+<p>He said that no progress has been made by police thus far.</p>
+<p>Dr Javeed’s brother Muhammad Khursheed said his father received a call from KEMU on Friday regarding his missing brother. He added that both the missing men worked as doctors and the government should act fast to quickly recover them.</p>
+<p>Meanwhile, police sources said the two doctors are being held by the Counter Terrorism Department.</p>
+<p>KEMU Pro Vice Chancellor Dr Asad Aslam confirmed to The Express Tribune that the families of both doctors were informed of their absences from work three days back.</p>
+<p>He said that the HOD of the PEED wards, where both were doing house jobs, was ordered to compile a report regarding the two doctors. He added that the reported was forwarded to the police on Saturday. He said the hospital administration has been in touch with the police to try to safely recover both doctors.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359789/two-doctors-disappear-lahore/">Two doctors ‘disappear’ from Lahore</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Restoring death penalty in Turkey &#8216;red line&#8217; in EU bid</title>
+		<link>https://tribune.com.pk/story/1359787/restoring-death-penalty-turkey-red-line-eu-bid/</link>
+		<comments>https://tribune.com.pk/story/1359787/restoring-death-penalty-turkey-red-line-eu-bid/#respond</comments>
+		<pubDate>Sun, 19 Mar 2017 13:22:41 +0000</pubDate>
+		<dc:creator><![CDATA[AFP ]]></dc:creator>
+				<category><![CDATA[World]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[Jean-Claude Juncker]]></category>
+		<category><![CDATA[President Recep Tayyip Erdogan]]></category>
+		<category><![CDATA[Turkey]]></category>
+		<category><![CDATA[world]]></category>
+
+		<guid isPermaLink="false">https://tribune.com.pk/?p=1359787</guid>
+		<description><![CDATA[<p>President Recep Tayyip Erdogan said he expected parliament to approve the restoration of capital punishment</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359787/restoring-death-penalty-turkey-red-line-eu-bid/">Restoring death penalty in Turkey &#8216;red line&#8217; in EU bid</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong class='location'>BERLIN:&nbsp;</strong>European Commission chief Jean-Claude Juncker warned Sunday that any return of the death penalty in Turkey would be a &#8220;red line&#8221; in the country&#8217;s stalled EU membership bid.</p>
+<p>&#8220;If the death penalty is reintroduced in Turkey, that would lead to the end of negotiations,&#8221; he told Sunday&#8217;s edition of Germany&#8217;s Bild newspaper, calling it a &#8220;red line&#8221;.</p>
+<p>Turkish President Recep Tayyip Erdogan said on Saturday he expected parliament to approve the restoration of capital punishment after next month&#8217;s referendum on controversial consitutional changes to expand his powers.</p>
+<p>Juncker nevertheless said he was opposed to a complete halt to all membership negotiations with Turkey.</p>
+<p><strong><a href="https://tribune.com.pk/story/1358954/erdogan-expects-parliament-restore-capital-punishment/" target="_blank">Erdogan expects parliament to restore capital punishment</a></strong></p>
+<p>&#8220;It makes no sense to try to calm (Erdogan&#8217;s) nerves by stopping negotiations that are not even taking place.&#8221;</p>
+<p>German Foreign Minister Sigmar Gabriel went even further, saying in an interview with Der Spiegel: &#8220;We are farther away than ever from Turkey&#8217;s accession to the EU.&#8221;</p>
+<p>Turkey abolished the death penalty in 2004 and the EU has repeatedly made clear that any move to restore it would scupper Ankara&#8217;s membership bid.</p>
+<p>But Turkish ministers say they need to respond to popular demand for the return of capital punishment to deal with the ringleaders of the attempted coup in July.</p>
+<p><a href="https://tribune.com.pk/story/1357181/erdogan-accuses-eu-launching-anti-islam-crusade/" target="_blank">Erdogan accuses EU of launching anti-Islam &#8216;crusade&#8217;</a></p>
+<p>&#8220;What Hans and George say is not important for me,&#8221; Erdogan said, using two common European names. &#8220;What the people say, what the law says, that&#8217;s what is important for us.&#8221;</p>
+<p>Turkey and Europe are locked in a diplomatic crisis after Germany and the Netherlands blocked Turkish ministers from campaigning for a &#8216;yes&#8217; vote in the April 16 referendum, which opponents fear will create one-man rule.</p>
+<p>In response, Turkish Interior Minister Suleyman Soylu threatened to &#8220;blow the mind&#8221; of Europe by sending 15,000 refugees a month to EU territory, which would endanger a year-old migrant deal between Ankara and Brussels to reduce the flow of migrants.</p>
+<p>&#8220;Turkey will not back out of the accord, even if Erdogan has told me several times  he wanted to,&#8221; Juncker said. Turkey has no interest in ceding &#8220;control&#8221; of its borders to &#8220;human traffickers and criminals&#8221;.</p>
+<p>The post <a rel="nofollow" href="https://tribune.com.pk/story/1359787/restoring-death-penalty-turkey-red-line-eu-bid/">Restoring death penalty in Turkey &#8216;red line&#8217; in EU bid</a> appeared first on <a rel="nofollow" href="https://tribune.com.pk">The Express Tribune</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss></wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 160/173 queries in 1.479 seconds using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: c.tribune.com.pk
+
+ Served from: tribune.com.pk @ 2017-03-19 20:50:33 by W3 Total Cache -->

@@ -1,0 +1,15 @@
+C:\Users\Sajjid Atta G\Desktop\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe.config
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe.config
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.pdb
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.csprojResolveAssemblyReference.cache
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.ProjectInstaller.resources
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.csproj.GenerateResource.Cache
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.exe
+D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.pdb
+D:\Semester\Semester 8\IPT\Assignments\A2\NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe.config
+D:\Semester\Semester 8\IPT\Assignments\A2\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.exe
+D:\Semester\Semester 8\IPT\Assignments\A2\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.pdb
+D:\PersonelSVN\trunk\NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe.config
+D:\PersonelSVN\trunk\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.exe
+D:\PersonelSVN\trunk\NewsCrawler\NewsCrawler\obj\Debug\NewsCrawler.pdb

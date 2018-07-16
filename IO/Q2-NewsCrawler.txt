@@ -1,0 +1,111 @@
+
+Service Stopped! 3/19/2017 9:22:48 PM
+
+Service Started! 3/19/2017 9:22:51 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 9:22:51 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 9:22:51 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:27:51 PM
+Crawling News from: https://www.geo.tv/rss/1/0 3/19/2017 9:27:51 PM
+Sorting News Items 3/19/2017 9:28:41 PM
+Wrting To Xml 3/19/2017 9:28:41 PM
+
+Service Stopped! 3/19/2017 9:28:46 PM
+
+Service Started! 3/19/2017 9:29:01 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 9:29:01 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 9:29:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:30:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:30:01 PM
+Sorting News Items 3/19/2017 9:30:01 PM
+Wrting To Xml 3/19/2017 9:30:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:31:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:31:01 PM
+Sorting News Items 3/19/2017 9:31:01 PM
+Wrting To Xml 3/19/2017 9:31:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:32:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:32:01 PM
+Sorting News Items 3/19/2017 9:32:01 PM
+Wrting To Xml 3/19/2017 9:32:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:33:01 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:33:01 PM
+Sorting News Items 3/19/2017 9:33:01 PM
+Wrting To Xml 3/19/2017 9:33:01 PM
+
+Service Stopped! 3/19/2017 9:33:35 PM
+
+Service Started! 3/19/2017 9:36:56 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 9:36:56 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 9:36:56 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:37:56 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:37:56 PM
+Sorting News Items 3/19/2017 9:37:56 PM
+Wrting To Xml 3/19/2017 9:37:57 PM
+
+Service Stopped! 3/19/2017 9:38:32 PM
+
+Service Started! 3/19/2017 9:42:24 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 9:42:24 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 9:42:24 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:43:24 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:43:24 PM
+Sorting News Items 3/19/2017 9:43:24 PM
+Wrting To Xml 3/19/2017 9:43:24 PM
+
+Service Stopped! 3/19/2017 9:43:47 PM
+
+Service Started! 3/19/2017 9:46:23 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 9:46:23 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 9:46:23 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed.txt 3/19/2017 9:47:23 PM
+Crawling News from: D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\Channels\feed2.xml 3/19/2017 9:47:23 PM
+Sorting News Items 3/19/2017 9:47:23 PM
+Wrting To Xml 3/19/2017 9:47:23 PM
+
+Service Stopped! 3/19/2017 9:47:55 PM
+
+Service Started! 3/19/2017 10:45:27 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 10:45:27 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 10:45:27 PM
+Crawling News from: https://www.geo.tv/rss/1/0 3/19/2017 10:46:31 PM
+
+Service Stopped! 3/19/2017 10:47:14 PM
+
+Service Started! 3/19/2017 10:48:18 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 10:48:18 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 10:48:18 PM
+Crawling News from: https://tribune.com.pk/pakistan/feed/ 3/19/2017 10:49:26 PM
+Crawling News from: https://tribune.com.pk/pakistan/feed/ 3/19/2017 10:50:19 PM
+
+Service Stopped! 3/19/2017 10:50:29 PM
+
+Service Started! 3/19/2017 11:27:26 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 11:27:27 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 11:27:27 PM
+
+Service Stopped! 3/19/2017 11:27:38 PM
+
+Service Started! 3/19/2017 11:28:04 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 11:28:04 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 11:28:04 PM
+Crawling News from: https://tribune.com.pk/pakistan/feed/ 3/19/2017 11:29:07 PM
+Crawling News from: https://www.geo.tv/rss/1/0 3/19/2017 11:29:13 PM
+Sorting News Items 3/19/2017 11:29:17 PM
+Wrting To Xml 3/19/2017 11:29:17 PM
+
+Service Stopped! 3/19/2017 11:29:57 PM
+
+Service Started! 3/19/2017 11:32:45 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 11:32:45 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 11:32:45 PM
+
+Service Stopped! 3/19/2017 11:33:10 PM
+
+Service Started! 3/19/2017 11:33:36 PM
+IO Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO  3/19/2017 11:33:36 PM
+Output File Path:D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\IO\News.xml  3/19/2017 11:33:36 PM
+Crawling News from: https://tribune.com.pk/pakistan/feed/ 3/19/2017 11:38:40 PM
+Crawling News from: https://www.geo.tv/rss/1/0 3/19/2017 11:38:45 PM
+Sorting News Items 3/19/2017 11:38:48 PM
+Wrting To Xml 3/19/2017 11:38:48 PM
+
+Service Stopped! 3/19/2017 11:39:27 PM

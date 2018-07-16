@@ -1,0 +1,121 @@
+﻿Uninstalling assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Removing EventLog source Q2-NewsCrawler.
+Warning: The source Q2-NewsCrawler is not registered on the local machine.
+Service Q2-NewsCrawler is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Service Q2-NewsCrawler has been successfully installed.
+Creating EventLog source Q2-NewsCrawler in log Application...
+Committing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Uninstalling assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Removing EventLog source Q2-NewsCrawler.
+Service Q2-NewsCrawler is being removed from the system...
+Service Q2-NewsCrawler was successfully removed from the system.
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Service Q2-NewsCrawler has been successfully installed.
+Creating EventLog source Q2-NewsCrawler in log Application...
+Committing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Uninstalling assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Removing EventLog source Q2-NewsCrawler.
+Service Q2-NewsCrawler is being removed from the system...
+Service Q2-NewsCrawler was successfully removed from the system.
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Service Q2-NewsCrawler has been successfully installed.
+Creating EventLog source Q2-NewsCrawler in log Application...
+Committing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Uninstalling assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Removing EventLog source Q2-NewsCrawler.
+Service Q2-NewsCrawler is being removed from the system...
+Service Q2-NewsCrawler was successfully removed from the system.
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Service Q2-NewsCrawler has been successfully installed.
+Creating EventLog source Q2-NewsCrawler in log Application...
+Committing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Uninstalling assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Removing EventLog source Q2-NewsCrawler.
+Service Q2-NewsCrawler is being removed from the system...
+Service Q2-NewsCrawler was successfully removed from the system.
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Service Q2-NewsCrawler has been successfully installed.
+Creating EventLog source Q2-NewsCrawler in log Application...
+Committing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Installing service Q2-NewsCrawler...
+Creating EventLog source Q2-NewsCrawler in log Application...
+Rolling back assembly 'D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.InstallLog
+   assemblypath = D:\Semester\Semester 8\IPT\Assignments\A2\Q2-NewsCrawler\NewsCrawler\bin\Debug\NewsCrawler.exe
+Restoring event log to previous state for source Q2-NewsCrawler.
